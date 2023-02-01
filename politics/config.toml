@@ -1,0 +1,8 @@
+baseURL = 'https://politics.reference-desk.net'
+languageCode = 'en-gb'
+title = 'Australian Legislation'
+theme = 'relearn'
+
+[module]
+[[module.imports]]
+path = 'github.com/McShelby/hugo-theme-relearn'
